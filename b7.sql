@@ -1,0 +1,2 @@
+DELETE FROM SinhVien
+WHERE Tuoi > 22;

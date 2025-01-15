@@ -1,0 +1,4 @@
+UPDATE SinhVien
+SET Tuoi = 22
+WHERE Tuoi < 21;
+SET SQL_SAFE_UPDATES = 0;

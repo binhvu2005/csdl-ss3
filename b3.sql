@@ -1,0 +1,2 @@
+DELETE FROM SinhVien
+WHERE MaSV = 2;
